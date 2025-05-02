@@ -9,7 +9,7 @@ As a junior software engineer with a passion for crafting seamless digital exper
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  See my portfolio at [Ahmed\_Abdeen](http://ahmedabdeen15.github.io/Ahmedabdeen15-Portfolio/)
 * ✉️  You can contact me at [ahmedwalleed15@gmail.com](mailto:ahmedwalleed15@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning FullStack web dev using .NET C#
 
 ### Skills
 
