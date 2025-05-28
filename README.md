@@ -46,13 +46,12 @@ Passionate about building robust web applications using modern .NET technologies
 
 ## 🚀 Current Focus  
 
-- Completing **ITI Intensive Code Camp** in Full Stack .NET Development (524 hours)  
+- Completing **ITI Intensive Code Camp** in Full Stack .NET Development
 - Building projects with:  
   - ASP.NET Core MVC  
   - Entity Framework Core  
   - Angular 15+  
   - Microservices architecture  
-- Preparing for **Microsoft Certified Solutions Developer (MCSD)** certification  
 
 ---
 
