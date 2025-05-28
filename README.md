@@ -58,9 +58,9 @@ Passionate about building robust web applications using modern .NET technologies
 
 ## 📈 GitHub Stats  
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedabdeen15&show_icons=true&theme=radical)](https://github.com/Ahmedabdeen15)  
+![Ahmedabdeen15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdeen15&theme=default&hide_border=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedabdeen15&theme=dark)](https://git.io/streak-stats)  
+![Ahmedabdeen15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdeen15&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
@@ -74,6 +74,6 @@ Passionate about building robust web applications using modern .NET technologies
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
   </a>
   <a href="mailto:ahmedwalleed15@gmail.com">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" height="32" alt="Gmail"/>
   </a>
 </p>
