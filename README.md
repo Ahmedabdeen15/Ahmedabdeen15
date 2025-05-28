@@ -58,11 +58,9 @@ Passionate about building robust web applications using modern .NET technologies
 
 ## 📈 GitHub Stats  
 
-<div align="center">
-![Ahmedabdeen15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdeen15&theme=default&hide_border=false)
+<a href="http://www.github.com/Ahmedabdeen15"><img src="https://github-readme-stats.vercel.app/api?username=Ahmedabdeen15&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Ahmedabdeen15's GitHub stats" /></a>
 
-![Ahmedabdeen15's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedabdeen15&theme=default&show_icons=true&hide_border=false&layout=compact)
-</div>
+<a href="http://www.github.com/Ahmedabdeen15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdeen15&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ---
 
 ## 🌐 Connect With Me  
