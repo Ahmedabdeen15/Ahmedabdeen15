@@ -1,32 +1,79 @@
-Hi 👋 My name is Ahmed Abdeen
-=============================
+# Hi 👋 I'm Ahmed Abdeen  
+### Full Stack .NET Developer  
 
-Embedded & flutter Software Developer
--------------------------------------
+Passionate about building robust web applications using modern .NET technologies. Transitioning from embedded systems to full-stack development with focus on clean architecture and scalable solutions.  
 
-As a junior software engineer with a passion for crafting seamless digital experiences, I bring a versatile skill set that spans both the intricate realms of embedded systems and the dynamic landscape of app development using Flutter. My expertise lies at the intersection of hardware and software, where I navigate the complexities of code and circuitry to bring innovative solutions to life.
+🌍  Based in Alexandria, Egypt  
+🖥️  [Portfolio](http://ahmedabdeen15.github.io/Ahmedabdeen15-Portfolio/)  
+✉️  [Email](mailto:ahmedwalleed15@gmail.com)  
+📚  Currently mastering ASP.NET Core, Angular, and cloud technologies  
 
-* 🌍  I'm based in Alexandria, Egypt
-* 🖥️  See my portfolio at [Ahmed\_Abdeen](http://ahmedabdeen15.github.io/Ahmedabdeen15-Portfolio/)
-* ✉️  You can contact me at [ahmedwalleed15@gmail.com](mailto:ahmedwalleed15@gmail.com)
-* 🧠  I'm learning FullStack web dev using .NET C#
+---
 
-### Skills
+## 🛠️ Technical Stack  
 
-
+### Core Competencies  
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="36" title=".NET Core"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36" title="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" title="TypeScript"/>
 </p>
 
+### Web Development  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+</p>
 
-### Socials
+### Backend & Databases  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" title="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" title="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" title="Docker"/>
+</p>
 
-<p align="left"> <a href="https://www.facebook.com/ahmed.walleed/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Ahmedabdeen15" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ahmed_walleed20/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ahmed-waleed-a1a45b289/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="36" title="VS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" title="VSCode"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" title="Git"/>
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🚀 Current Focus  
 
-<a href="http://www.github.com/Ahmedabdeen15"><img src="https://github-readme-stats.vercel.app/api?username=Ahmedabdeen15&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Ahmedabdeen15's GitHub stats" /></a>
+- Completing **ITI Intensive Code Camp** in Full Stack .NET Development (524 hours)  
+- Building projects with:  
+  - ASP.NET Core MVC  
+  - Entity Framework Core  
+  - Angular 15+  
+  - Microservices architecture  
+- Preparing for **Microsoft Certified Solutions Developer (MCSD)** certification  
 
-<a href="http://www.github.com/Ahmedabdeen15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedabdeen15&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+## 📈 GitHub Stats  
+
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedabdeen15&show_icons=true&theme=radical)](https://github.com/Ahmedabdeen15)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmedabdeen15&theme=dark)](https://git.io/streak-stats)  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-waleed-a1a45b289/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
+  </a>
+  <a href="https://www.github.com/Ahmedabdeen15">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
+  </a>
+  <a href="mailto:ahmedwalleed15@gmail.com">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32"/>
+  </a>
+</p>
